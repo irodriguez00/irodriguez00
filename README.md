@@ -19,12 +19,13 @@
 
 ## 💼 My Skills
 
-| Operating Systems | Networking | Security | Tools |
-|-------------------|------------|----------|-------|
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | ![Firewall](https://img.shields.io/badge/Firewall-red?style=flat-square) | ![Packet Tracer](https://img.shields.io/badge/PacketTracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
-| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | VLANs / ACLs | Hardening | ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) |
-|  |  |  | ![Wazuh](https://img.shields.io/badge/Wazuh-005C9C?style=flat-square&logoColor=white) |
-|  |  |  | ELK Stack |
+| Category            | Skills |
+|----------------------|--------|
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Networking**        | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) VLANs / ACLs |
+| **Security**          | Hardening, Firewalls |
+| **Tools**             | ![Packet Tracer](https://img.shields.io/badge/PacketTracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005C9C?style=flat-square) ELK Stack |
+
 
 ---
 
