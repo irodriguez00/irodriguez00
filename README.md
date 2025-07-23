@@ -17,14 +17,15 @@
 
 ---
 
-## 💼 My Skills
+## 🧰 My Skills
 
-| Category            | Skills |
-|----------------------|--------|
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Networking**        | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) VLANs / ACLs |
-| **Security**          | Hardening, Firewalls |
-| **Tools**             | ![Packet Tracer](https://img.shields.io/badge/PacketTracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005C9C?style=flat-square) ELK Stack |
+| Category           | Skills                                |
+|--------------------|---------------------------------------|
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows) |
+| **Networking**       | ![Cisco](https://img.shields.io/badge/-Cisco-blue?logo=cisco) VLANs / ACLs |
+| **Security**         | Hardening, Firewalls |
+| **Tools**            | ![PacketTracer](https://img.shields.io/badge/-PacketTracer-blue) ![Splunk](https://img.shields.io/badge/-Splunk-black) ![Wazuh](https://img.shields.io/badge/-Wazuh-blue) ![Kibana](https://img.shields.io/badge/-Kibana-005571?logo=kibana) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch) |
+
 
 
 ---
