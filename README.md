@@ -13,7 +13,6 @@
   - Network monitoring & analysis: **Splunk**, **Wazuh**, **ELK Stack**
   - Best practices in **Linux** and **Windows Server** administration
 - 🤝 Looking forward to collaborating on networking and security-related projects.
-- 💬 Feel free to ask me anything — happy to help!
 - 🚀 Open to learning and contributing to meaningful projects.
 
 ---
