@@ -13,7 +13,7 @@
   - Network monitoring and analysis with **Splunk**, **Wazuh**, and the **ELK Stack**
   - Best practices in **Linux** and **Windows Server** administration
 - 🤝 Looking forward to collaborating on networking and security-related projects.
-- 💬 Feel free to ask me anything — happy to help!
+
 
 ---
 
@@ -39,6 +39,8 @@
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-rodriguez00/)
+
+📧 ignacioarodriguez00@gmail.com
 
 ---
 
