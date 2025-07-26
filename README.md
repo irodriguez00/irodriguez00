@@ -11,7 +11,7 @@
 - 🌱 Currently learning:
   - Defensive security
   - Network monitoring & analysis: **Splunk**, **Wazuh**, **ELK Stack**
-  - Best practices in **Linux** and **Windows Server** administration
+  - Best practices in **Linux** and **Windows Server** administration.
 - 🤝 Looking forward to collaborating on networking and security-related projects.
 - 🚀 Open to learning and contributing to meaningful projects.
 
