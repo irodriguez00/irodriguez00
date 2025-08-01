@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 **Cybersecurity Student**
 - 🔐 Passionate about **Network Security** and system administration.
-- 📚 Always learning, with a strong interest in IT technologies, protocols, and best practices
+- 📚 Always learning, with a strong interest in IT technologies, protocols, and best practices.
 
 ---
 
