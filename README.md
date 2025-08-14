@@ -31,6 +31,7 @@
 ## 🌟 Featured Projects
 
 - [Cisco Packet Tracer — Enterprise network with VLANs and ACLs](https://github.com/irodriguez00/cisco-packet-tracer-vlan-acl)
+- [Password Tool](https://github.com/irodriguez00/password-tool)
 
 ---
 
